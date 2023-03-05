@@ -179,7 +179,7 @@
 
 .cta{
   width: 100%;
-  background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url(../images/cta.jpg) no-repeat center center;
+  background:  url(../images/cta.jpg) no-repeat center center;
   background-size: cover;
   padding: 150px 0 150px 0;
 }
