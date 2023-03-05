@@ -1,0 +1,270 @@
+/* Clone */
+/* Root Multi-use Landing Page Template */
+/* Source */
+/* https://themeforest.net/item/root-multiuse-landing-page-template/20394859 */
+
+
+.navbar-brand{
+  color:#41CD52;
+  font-weight: 700;
+}
+
+.navbar-brand:hover{
+  color: #b3b3b3;
+}
+
+.active{
+  color: #41CD52 !important;
+}
+
+.nav-link{
+  margin-left: 25px;
+  font-size: 15px;
+  font-weight: 700;
+  color: #b3b3b3;
+}
+
+.nav-link:hover{
+  color: #41CD52;
+}
+
+.btn-nav{
+  display: inline-block;
+  text-decoration: none;
+  padding: 0.5rem 1.5rem;
+  color: #fff;
+  background: #41CD52;
+  border-radius: 0.7rem;
+  font-weight: 700;
+}
+
+.btn-nav:hover{
+  color:#fff ;
+}
+
+
+.banner{
+  padding: 100px 0 0 0;
+}
+
+.item-banner{
+  padding: 125px 50px 0 0;
+}
+
+.img{
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.item-banner h1{
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 1.1;
+  color: #333333;
+}
+
+.item-banner p{
+  font-size: 14px;
+  line-height: 1.4;
+  color: #848484;
+  max-width: 400px;
+  margin-top: 20px;
+}
+
+.btn-banner{
+  display: inline-block;
+  text-decoration: none;
+  padding: 0.5rem 1.5rem;
+  color: #fff;
+  background: #41CD52;
+  border-radius: 0.3rem;
+  font-weight: 700;
+  margin-top: 15px;
+}
+
+.btn-banner:hover{
+  color: #fff;
+}
+
+.features{
+  padding: 125px 0 100px 0;
+  background-color:#F3F3F3;
+}
+
+.features h4{
+  font-size: 16px;
+  font-weight: 400;
+  color: #848484;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+}
+
+.features h1{
+  font-size: 36px;
+  font-weight: 300;
+  color: #404040;
+}
+
+.features p{
+  font-size: 16px;
+  font-weight: 300;
+  color: #848484;
+  line-height: 1.4;
+  margin: 20px 0 20px 0;
+  
+}
+
+.card-features{ 
+  background-color: #fff;
+  padding: 25px;
+
+}
+
+.box-p{
+  margin-top: 35px;
+}
+
+.fe-text{
+  padding: 100px 100px 0 0;
+}
+
+.fe-text h2{
+  font-size: 34px;
+  color: #222222;
+  font-weight: 300;
+  line-height: 1.2;
+  margin: 0 0 20px 0;
+}
+
+.fe-text p{
+  font-size: 16px;
+  line-height: 1.4;
+  color: #A1A1A1;
+}
+
+.review{
+  background-color:#F3F3F3;
+}
+
+.img-circle{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.reviews{
+  padding: 150px;
+}
+
+.reviews p{
+  font-size: 16px;
+  font-weight: 300;
+  padding: 20px 10px 20px 10px;
+  line-height: 1.5;
+  color: #848484;
+}
+
+.reviews h3{
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 1.5;
+  color: #232323;
+}
+
+.reviews i{
+  color: gold;
+}
+
+.cta{
+  width: 100%;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url(../images/cta.jpg) no-repeat center center;
+  background-size: cover;
+  padding: 150px 0 150px 0;
+}
+
+.pricing-inner{
+  color: #fff;
+  text-align: start;
+  padding-left: 25px;
+  
+}
+
+.cta-2{
+  background-color:#F3F3F3;
+
+}
+
+.cta-text{
+  padding: 100px;
+}
+
+.cta-text h1{
+  font-weight: 300;
+  line-height: 1.4;
+  color: #252525;
+  margin-bottom: 20px;
+}
+
+.cta-text p{
+  color: #848484;
+}
+
+.cta-text input[type=text]{
+  color: #222222;
+  font-family: 'Nunito';
+  padding: 0;
+  font-size: 0.9em;
+  height: 40px;
+  border: 2px solid #F2F2F2;
+  border-radius: 5px 0 0 5px;
+  border-color: #F2F2F2;
+  background-color: #fff;
+  outline: none;
+  padding: 0 100px 0 20px;
+}
+
+.cta-text input[type=submit]{
+  height: 40px;
+  border: 2px solid #41CD52;
+  border-radius: 0 5px 5px 0;
+  margin: 0;
+  padding: 0 25px 0 25px;
+  background-color: #41CD52;
+  color: #FFFFFF;
+  box-shadow: 0 0 1px transparent;
+  outline: none;
+}
+
+.footer{
+  padding: 100px;
+}
+
+.ul-left{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  text-align: start;
+  padding-top:50px;
+}
+
+.ul-left ul li{
+  list-style: none;
+  margin-top: 15px;
+}
+
+.ul-left ul li a{
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 700;
+  color: #b3b3b3;
+}
+
+.ul-left ul li a:hover{
+  color: #41CD52;
+}
+
+.footer-left p{
+  color: #b3b3b3;
+}
